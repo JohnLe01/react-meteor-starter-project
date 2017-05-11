@@ -1,6 +1,7 @@
 {
   "name": "react-meteor-starter-project",
   "private": true,
+  "license": "MIT", 
   "scripts": {
     "start": "meteor run"
   },
